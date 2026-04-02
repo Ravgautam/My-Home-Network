@@ -102,4 +102,4 @@ Recommended tools:
 (Add your image here after uploading)
 
 ```markdown
-![Network Topology](topology.png)
+![Network Topology](Logical_Home_Network.png)
