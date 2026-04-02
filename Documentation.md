@@ -14,10 +14,10 @@ The physical topology represents how devices are physically connected.
 ### 📍 Devices:
 - ISP Modem
 - Wireless Router (Main Router)
-- Laptop (WiFi)
-- Smartphone (WiFi)
-- Smart TV (WiFi)
-- Desktop PC (Ethernet)
+- Laptop 
+- Smartphone 
+- Smart TV 
+- Desktop PC 
 
 ### 🔗 Connection Layout:
 - ISP → Modem → Router
@@ -42,10 +42,10 @@ The logical topology shows how data flows in the network.
 | Device         | IP Address     | Subnet Mask     | Default Gateway | DNS Server      |
 |----------------|----------------|-----------------|-----------------|-----------------|
 | Router         | 192.168.1.1    | 255.255.255.0   | N/A             | 8.8.8.8         |
-| Desktop PC     | 192.168.1.10   | 255.255.255.0   | 192.168.1.1     | 8.8.8.8         |
+| Smart TV       | 192.168.1.10   | 255.255.255.0   | 192.168.1.1     | 8.8.8.8         |
 | Laptop         | DHCP           | DHCP            | 192.168.1.1     | 8.8.8.8         |
 | Smartphone     | DHCP           | DHCP            | 192.168.1.1     | 8.8.8.8         |
-| Smart TV       | DHCP           | DHCP            | 192.168.1.1     | 8.8.8.8         |
+| Desktop        | DHCP           | DHCP            | 192.168.1.1     | 8.8.8.8         |
 
 ---
 
@@ -92,8 +92,6 @@ To securely store login credentials, the following method is used:
 - No passwords written in plain text
 - Two-factor authentication (2FA) enabled where possible
 
-Recommended tools:
-- Bitwarden / LastPass
 
 ---
 
