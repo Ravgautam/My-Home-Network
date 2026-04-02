@@ -97,8 +97,9 @@ Recommended tools:
 
 ---
 
-## 🖼️ 7. Network Topology Diagram
+## 🖼️ 7. Network Topology Diagram(Logical and Physical)
 
 ![Network Topology](Logical_Home_Network.png)
+![Network Topology](Physical.png)
 
 ```markdown
