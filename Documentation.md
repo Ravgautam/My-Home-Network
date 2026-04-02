@@ -99,7 +99,6 @@ Recommended tools:
 
 ## 🖼️ 7. Network Topology Diagram
 
-(Add your image here after uploading)
+![Network Topology](Logical_Home_Network.png)
 
 ```markdown
-![Network Topology](Logical_Home_Network.png)
